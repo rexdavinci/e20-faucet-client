@@ -1,0 +1,1 @@
+export { default as FaucetMeta } from './faucet.json'
