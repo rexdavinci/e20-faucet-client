@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/erc20-faucet-client/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/erc20-faucet-client/static/js/main.41f04663.chunk.js",
+    "main.js.map": "/erc20-faucet-client/static/js/main.41f04663.chunk.js.map",
+    "runtime-main.js": "/erc20-faucet-client/static/js/runtime-main.d27b2658.js",
+    "runtime-main.js.map": "/erc20-faucet-client/static/js/runtime-main.d27b2658.js.map",
+    "static/css/2.505d8e97.chunk.css": "/erc20-faucet-client/static/css/2.505d8e97.chunk.css",
+    "static/js/2.b8dcbced.chunk.js": "/erc20-faucet-client/static/js/2.b8dcbced.chunk.js",
+    "static/js/2.b8dcbced.chunk.js.map": "/erc20-faucet-client/static/js/2.b8dcbced.chunk.js.map",
+    "static/js/3.4213554e.chunk.js": "/erc20-faucet-client/static/js/3.4213554e.chunk.js",
+    "static/js/3.4213554e.chunk.js.map": "/erc20-faucet-client/static/js/3.4213554e.chunk.js.map",
+    "index.html": "/erc20-faucet-client/index.html",
+    "static/css/2.505d8e97.chunk.css.map": "/erc20-faucet-client/static/css/2.505d8e97.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/erc20-faucet-client/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b8dcbced.chunk.js.LICENSE.txt": "/erc20-faucet-client/static/js/2.b8dcbced.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d27b2658.js",
+    "static/css/2.505d8e97.chunk.css",
+    "static/js/2.b8dcbced.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.41f04663.chunk.js"
+  ]
+}
